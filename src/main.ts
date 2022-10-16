@@ -1,7 +1,5 @@
 import getScrollbarWidth from "./utils/scrollbar-width";
-
 import "./styles/reset.css";
-import { off } from "process";
 
 //滚动条宽度
 const scrollbarWidth = getScrollbarWidth();
